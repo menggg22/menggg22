@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mengyuan @menggg22
 - :information_desk_person: Who am I?
-  - A 4th year Ph.D. student from CSE department University of Notre dame :computer:
+  - A 4th year Ph.D. student from CSE department :computer: University of Notre Dame :us:
 - 👀 I’m interested in 
   1. in memory computing 
   2. emerging ML workloads 
